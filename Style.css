@@ -1,16 +1,15 @@
 ﻿body {
-    background-color: black;
+    
     color: red;
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
     text-align: center;
     font-size: 200%;
-    background-image: url('Images/plasma-775169_960_720.jpg');
-    background-position: center;
+    
 }
 header {
     background-color: black;
     color: red;
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
     text-align: center;
-    font-size: 200%;
+    font-size: 5000%;
 }

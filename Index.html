@@ -5,12 +5,27 @@
     <meta charset="utf-8" />
 
     <link href="Style.css" rel="stylesheet" />
-    <p>
+   
         Welcome to my awesome website!
-    </p>
+    <style>
+        .parallax {
+            /* The image used */
+            
+            background-image: url('Images/RKT_9994.jpg');
+            /* Set a specific height */
+            min-height: 500px;
+            /* Create the parallax scrolling effect */
+            background-attachment: fixed;
+            background-position: center;
+            background-repeat: no-repeat;
+            background-size: cover;
+        }
+    </style>
+    
 </head>
-
 <body>
+    <div class="parallax"></div>
+   
     <script src="Scripts/jquery-3.1.0.js"></script>
     <script src="Portfolio.js"></script>
     <div>
